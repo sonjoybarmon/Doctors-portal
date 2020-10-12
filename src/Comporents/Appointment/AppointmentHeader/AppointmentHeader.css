@@ -1,0 +1,6 @@
+.appointmentImg{
+    background: url(../../../images/homebg.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}

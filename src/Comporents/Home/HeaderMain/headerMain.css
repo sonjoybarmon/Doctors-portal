@@ -1,0 +1,9 @@
+.AppointmentStyle{
+    margin-top: 20px;
+    color: #fff;
+}
+.AppointmentStyle:hover{
+    text-decoration: none;
+    color: #fff;
+    
+}
